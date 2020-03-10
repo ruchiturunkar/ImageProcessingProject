@@ -35,4 +35,25 @@ For exapmle following are the image generation commands,
   CheckeredBoard 40<br/>
   Save CB.jpg<br/>
   
+  Following are the resulting images:
+  
+  <p align="center">
+  <img src="VRainbow.jpg"/>
+  </p>
+  
+  <p align="center">
+  <img src="HRainbow.jpg"/>
+  </p>
+  
+  <p align="center">
+  <img src="CB.jpg"/>
+  </p>
+  
+
+2. Interactive Mode :
+
+<p align="center">
+  <img src="IG-In.jpg"/>
+  </p>
+  
   
