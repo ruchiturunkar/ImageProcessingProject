@@ -38,22 +38,46 @@ For exapmle following are the image generation commands,
   Following are the resulting images:
   
   <p align="center">
-  <img src="VRainbow.jpg"/>
+  <img src="images/VRainbow.jpg"/>
   </p>
   
   <p align="center">
-  <img src="HRainbow.jpg"/>
+  <img src="images/HRainbow.jpg"/>
   </p>
   
   <p align="center">
-  <img src="CB.jpg"/>
+  <img src="images/CB.jpg"/>
   </p>
   
 
 2. Interactive Mode :
 
-<p align="center">
-  <img src="IG-In.jpg"/>
+  <p align="center">
+  <img src="images/IG-In.jpg"/>
   </p>
   
+  <p align="center">
+  <img src="images/IT-In.jpg"/>
+  </p>
+  <p align="center">
+  <img src="images/Blur-In.jpg"/>
+  </p>
+  <p align="center">
+  <img src="images/Sepia-In.jpg"/>
+  </p>
   
+  <p align="center">
+  <img src="images/Grey-In.jpg"/>
+  </p>
+  
+  <p align="center">
+  <img src="images/Mosaic-In.jpg"/>
+  </p>
+  
+  <p align="center">
+  <img src="images/Dither-In.jpg"/>
+  </p>
+  
+  <p align="center">
+  <img src="images/Sharpen-In.jpg"/>
+  </p>
