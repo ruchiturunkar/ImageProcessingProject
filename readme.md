@@ -39,14 +39,17 @@ For exapmle following are the image generation commands,
   
   <p align="center">
   <img src="images/VRainbow.jpg"/>
+  <br/>VRainbow.jpg
   </p>
   
   <p align="center">
   <img src="images/HRainbow.jpg"/>
+  <br/>HRainbow.jpg
   </p>
   
   <p align="center">
   <img src="images/CB.jpg"/>
+  <br/>CB.jpg
   </p>
   
 
